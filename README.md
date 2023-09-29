@@ -6,6 +6,7 @@ This is a practice application where we can debug and Refactoring. View all the 
 N/A
 
 ##Usage
+
 An increasingly important consideration for businesses, web **accessibility** ensures that people with disabilities can access a website using assistive technologies like video captions, 
 screen readers, and braille keyboards. Accessibility is good for business&mdash;for one thing, accessible sites rank higher in search engines like Google.
 It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
@@ -14,6 +15,7 @@ Accessibility can include complex requirements, but your tech lead has given you
 These criteria are documented in the Acceptance Criteria section.
 
 ##Credits
+
 Starter Code is in the Module  Challenge 1 Module index.html
 
 ### Challenge User Story Requirement
