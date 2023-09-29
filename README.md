@@ -44,7 +44,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-### Module  Challenge 1 Module 
+### Module Challenge 1 Module 
 
 This Module contains Challenge one homework where following image shows the web application's appearance and functionality.
 
@@ -81,13 +81,13 @@ WHEN I viewed the icon and image elements **Expected**
 THEN I found accessible alt attributes **Not Expected**
 A defect was found **Defect** it was missing -> id="Search Engine Optimization"  
 
-####Part four
+#### Part four
 #### Expected Result
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-####Actual Result
+#### Actual Result
 THEN they fall in sequential order **Expected**
 WHEN I viewed the title element **Expected**
 THEN I found a concise, descriptive title **Expected**
