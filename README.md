@@ -48,7 +48,7 @@ THEN I find a concise, descriptive title
 
 This Module contains Challenge one homework where following image shows the web application's appearance and functionality.
 
-###Expected Result / Actual Result
+### Expected Result / Actual Result
 
 ### Part one
 #### Expected Result
