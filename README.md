@@ -72,7 +72,7 @@ WHEN I viewed the structure of the HTML elements, It is user-friendly and it is 
 THEN I found that the elements follow a logical structure independent of styling and positioning **Expected**
 
 ### Part three
-#### 
+#### Expected Result
 WHEN I view the icon and image elements
 THEN I find accessible alt attributes
 
